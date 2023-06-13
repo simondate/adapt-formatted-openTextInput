@@ -1,10 +1,10 @@
 {
     "name": "adapt-formatted-openTextInput",
-    "version": "2.2.4",
+    "version": "2.3.0",
     "framework": ">=5.7.0",
-    "homepage": "https://github.com/simondate/adapt-contrib-openTextInput",
+    "homepage": "https://github.com/simondate/adapt-formatted-openTextInput",
     "authors": [
-        "Simon Date<simon@adaptfreelancer.com",
+        "Simon Date <simon@adaptfreelancer.com",
         "Thomas Eitler <thomas.eitler@learnchamp.com>",
         "Barbara Fellner <me@barbarafellner.at>",
         "Petra Nussdorfer <petra.nussdorfer@learnchamp.com>",
