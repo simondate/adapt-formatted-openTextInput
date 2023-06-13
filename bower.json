@@ -1,0 +1,24 @@
+{
+    "name": "adapt-formatted-openTextInput",
+    "version": "2.2.4",
+    "framework": ">=5.7.0",
+    "homepage": "https://github.com/simondate/adapt-contrib-openTextInput",
+    "authors": [
+        "Simon Date<simon@adaptfreelancer.com",
+        "Thomas Eitler <thomas.eitler@learnchamp.com>",
+        "Barbara Fellner <me@barbarafellner.at>",
+        "Petra Nussdorfer <petra.nussdorfer@learnchamp.com>",
+        "Brian Quinn <brian@learningpool.com>",
+        "Barry McKay <barry@learningpool.com>",
+        "Cahir O'Doherty <cahir.odoherty@learningpool.com>"
+    ],
+    "description": "Allows the learner to input open text based upon a question stem, with text formatting included",
+    "main": "/js/adapt-formatted-openTextInput.js",
+    "keywords": [
+        "adapt-plugin",
+        "adapt-component"
+    ],
+    "component": "formattedOpenTextInput",
+    "displayName": "Formatted Open Text Input",
+    "license": "GPLv3"
+}
